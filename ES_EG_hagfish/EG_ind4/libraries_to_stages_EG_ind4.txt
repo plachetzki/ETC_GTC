@@ -1,0 +1,6 @@
+EG_SG_143	slime_gland
+EG_SG_144	slime_gland
+EG_SG_145	slime_gland
+EG_SK_146	skin
+EG_SK_147	skin
+EG_SK_148	skin

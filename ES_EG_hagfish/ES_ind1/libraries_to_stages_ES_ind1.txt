@@ -1,0 +1,6 @@
+ES_SG3_A33	slime_gland
+ES_SG4_A34	slime_gland
+ES_SG1_A31	slime_gland
+ES_SK3_A29	skin
+ES_SK4_A30	skin
+ES_SK2_A28	skin
